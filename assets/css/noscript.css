@@ -27,5 +27,5 @@
 	}
 
 	body.is-preload #banner:after {
-		opacity: 50;
+		opacity: .5;
 	}
