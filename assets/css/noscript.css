@@ -27,5 +27,6 @@
 	}
 
 	body.is-preload #banner:after {
-		opacity: .5;
+		opacity: 0;
 	}
+.col-12 {filter: blur(15px);}
