@@ -79,5 +79,6 @@
 			});
 
 		}
+		document.getElementsByClassName("col-12")[0].style.filter = "blur(15px)";
 
 })(jQuery);
